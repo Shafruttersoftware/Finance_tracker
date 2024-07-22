@@ -102,5 +102,8 @@ To contribute or make changes:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+Contact
+For support or inquiries, please contact it@frutterlabs.com
+
 ---
 
